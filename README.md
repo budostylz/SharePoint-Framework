@@ -5,3 +5,7 @@
 [SharePoint look book](https://lookbook.microsoft.com/)
 
 [SharePoint Framework Tutorial - Setup your Office 365 tenant for development](https://www.youtube.com/watch?v=yc1IYgYp7qQ)
+
+## Setup Environment
+
+1. Create App Catalog
